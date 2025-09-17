@@ -1,0 +1,2 @@
+# NewTabIdle
+splash for NewTabDash
